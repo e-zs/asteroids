@@ -15,3 +15,4 @@ TARGET_FRAMERATE = 60
 # Colors
 BLACK = (0,0,0)
 WHITE = (255, 255, 255)
+GOLD = (255, 215, 0)
